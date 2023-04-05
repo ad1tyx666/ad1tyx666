@@ -16,3 +16,6 @@
 <p></p>
 <p></p>
 </p>
+
+![Stars](https://img.shields.io/github/stars/UtsavBalar1231?color=black&logo=github&style=flat)
+![Followers](https://img.shields.io/github/followers/UtsavBalar1231?color=black&logo=github&style=flat)
